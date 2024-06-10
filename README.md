@@ -1,4 +1,4 @@
-## Introduction to Our Data Visualization Process
+## Introduction to Spikes Data Visualization Process
 
 Data visualization is a powerful tool that transforms complex datasets into intuitive and insightful visual representations. However, the journey from raw data to a compelling 3D map involves overcoming several challenges. In this post, we'll walk you through our detailed process, highlighting the key steps and the solutions we've implemented to tackle these challenges.
 
